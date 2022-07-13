@@ -16,6 +16,11 @@
 
 
 /* menu */
+.sa-cover {
+    height: 100vh;
+    min-width: 100% !important;
+}
+
 .dropdown-menu {
     border-radius: 5px;
     color: white;
